@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  ![Profile Views](https://viewcounter.live/tariqazizstacks)
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Animated coder working at a computer" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tariqazizstacks&label=PROFILE%20VISITORS&color=38BDF8&style=for-the-badge" alt="Profile visitors" />
+  <img src="https://komarev.com/ghpvc/?username=tariqazizstacks&style=for-the-badge&color=38BDF8&label=PROFILE+VISITORS" alt="GitHub profile visitors" />
 </p>
 
 ---
@@ -21,7 +21,7 @@ I'm Tariq Aziz, a Full Stack Developer passionate about building modern, reliabl
 - 💻 Developing responsive and interactive web experiences.
 - ⚙️ Building backend services, REST APIs, and database-driven applications.
 - 🚀 Turning ideas into practical digital products.
-- 🌱 Improving my skills through continuous learning and real-world projects.
+- 🌱 Improving my skills through real-world projects and continuous learning.
 - 🤝 Connecting with developers and technology communities.
 - 🎯 Focused on clean code, maintainability, and meaningful solutions.
 
@@ -39,7 +39,7 @@ An online education platform designed to make learning more accessible, featurin
 
 <p>
   <a href="https://elham-online-education-organization.vercel.app/">
-    <img src="https://img.shields.io/badge/Explore_Live_Project-Visit_Website-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Elham Online Education" />
+    <img src="https://img.shields.io/badge/EXPLORE_PROJECT-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Elham Online Education" />
   </a>
 </p>
 
@@ -49,17 +49,17 @@ Exploring REST APIs, server-side development, routing, middleware, authenticatio
 
 ### 🌐 Web Development
 
-Building responsive interfaces and connecting frontend applications with backend services.
+Creating responsive interfaces and connecting frontend applications with backend services.
 
 ---
 
 ## 🌍 Community & Collaboration
 
-I believe strong developer communities are built on trust, shared knowledge, and consistent effort.
+I believe strong developer communities grow through trust, shared knowledge, and consistent effort.
 
 - 🤝 Connect with developers and technology enthusiasts.
 - 💡 Exchange ideas and learn from different perspectives.
-- 🌱 Share knowledge and support continuous learning.
+- 🌱 Share knowledge and encourage continuous learning.
 - 🚀 Collaborate on useful projects and practical solutions.
 - 💬 Value respectful communication, honest feedback, and teamwork.
 
@@ -80,7 +80,7 @@ I believe strong developer communities are built on trust, shared knowledge, and
     <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
 </p>
 

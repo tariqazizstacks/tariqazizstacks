@@ -9,8 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tariqazizstacks&label=PROFILE+VISITORS&color=0e75b6&style=for-the-badge" alt="GitHub profile visitor counter" />
-  <img src="https://img.shields.io/github/followers/tariqazizstacks?label=FOLLOWERS&style=for-the-badge&color=blue" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=tariqazizstacks&label=PROFILE%20VISITORS&color=38BDF8&style=for-the-badge" alt="Profile visitors" />
 </p>
 
 ---
@@ -19,14 +18,14 @@
 
 I'm Tariq Aziz, a Full Stack Developer passionate about building modern, reliable, and user-focused web applications.
 
-- 🚀 Developing practical solutions through code.
-- 💻 Working across frontend and backend technologies.
-- ⚙️ Exploring APIs, databases, authentication, and server-side development.
-- 🌱 Improving my skills through continuous learning and real projects.
-- 🤝 Connecting with developers, students, and technology communities.
-- 🎯 Focused on writing maintainable code and building meaningful products.
+- 💻 Developing responsive and interactive web experiences.
+- ⚙️ Building backend services, REST APIs, and database-driven applications.
+- 🚀 Turning ideas into practical digital products.
+- 🌱 Improving my skills through continuous learning and real-world projects.
+- 🤝 Connecting with developers and technology communities.
+- 🎯 Focused on clean code, maintainability, and meaningful solutions.
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,git,github,vscode,postman&perline=6" alt="Full stack development technologies" />
@@ -35,55 +34,53 @@ I'm Tariq Aziz, a Full Stack Developer passionate about building modern, reliabl
 ## 🚀 Featured Projects
 
 ### 🎓 Elham Online Education
-An online education platform designed to make learning more accessible, with student, teacher, and admin portals.
 
-[🌐 Visit Live Website](https://elham-online-education-organization.vercel.app/)
+An online education platform designed to make learning more accessible, featuring student, teacher, and admin portals.
+
+<p>
+  <a href="https://elham-online-education-organization.vercel.app/">
+    <img src="https://img.shields.io/badge/Explore_Live_Project-Visit_Website-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Elham Online Education" />
+  </a>
+</p>
 
 ### ⚙️ Backend Development
-Building REST APIs and practicing server-side development, routing, middleware, and database integration.
+
+Exploring REST APIs, server-side development, routing, middleware, authentication, and database integration.
 
 ### 🌐 Web Development
-Creating responsive interfaces and connecting frontend applications with backend services.
+
+Building responsive interfaces and connecting frontend applications with backend services.
 
 ---
 
 ## 🌍 Community & Collaboration
 
-I believe great technology grows through collaboration, knowledge sharing, and mutual respect.
+I believe strong developer communities are built on trust, shared knowledge, and consistent effort.
 
-- 🤝 Open to connecting with developers and technology enthusiasts.
-- 💡 Interested in exchanging ideas and learning from experienced builders.
-- 🌱 Supporting a culture of continuous learning and constructive feedback.
-- 🚀 Interested in meaningful projects, teamwork, and community-driven growth.
+- 🤝 Connect with developers and technology enthusiasts.
+- 💡 Exchange ideas and learn from different perspectives.
+- 🌱 Share knowledge and support continuous learning.
+- 🚀 Collaborate on useful projects and practical solutions.
+- 💬 Value respectful communication, honest feedback, and teamwork.
 
-**My principle:** Earn trust through consistent work, honest communication, and useful contributions.
+**My commitment:** Keep learning, communicate honestly, and let the quality of my work earn trust.
 
-## 🎯 My Developer Mindset
+## 💡 What I Believe In
 
-```javascript
-const tariqAziz = {
-  title: "Full Stack Developer",
-  focus: "Building useful digital products",
-  approach: [
-    "Write clean code",
-    "Solve real problems",
-    "Keep learning",
-    "Collaborate with others"
-  ],
-  motto: "Build with purpose. Improve every day."
-};
-
-console.log("The next project starts with an idea.");
-```
+- ✨ Quality over quantity.
+- 🧩 Solve problems with thoughtful engineering.
+- 🤝 Build trust through honest collaboration.
+- 📚 Learn continuously and improve every day.
+- 🚀 Create technology that serves a real purpose.
 
 ## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://github.com/tariqazizstacks">
-    <img src="https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
 </p>
 

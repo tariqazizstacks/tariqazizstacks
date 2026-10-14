@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Animated programmer coding at a computer" />
+  ![Profile Views](https://viewcounter.live/tariqazizstacks)
 </p>
 
 <p align="center">
